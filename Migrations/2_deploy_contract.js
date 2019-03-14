@@ -2,8 +2,8 @@ var ExampleToken = artifacts.require("./ExampleToken.sol");
 var ExampleTokenCrowdsale = artifacts.require("./ExampleTokenCrowdsale.sol");
 
 module.exports = async function(deployer , network , accounts) {
-    const _name = "Example Token";
-    const _symbol = "EXM";
+    const _name = "CSC 4980 Token";
+    const _symbol = "GSU";
     const _decimal = 18;
 
 
